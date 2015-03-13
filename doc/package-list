@@ -1,0 +1,13 @@
+pt.ul.fc.di.lasige.simhs.addons.loggers
+pt.ul.fc.di.lasige.simhs.addons.models
+pt.ul.fc.di.lasige.simhs.addons.simulations
+pt.ul.fc.di.lasige.simhs.core.domain
+pt.ul.fc.di.lasige.simhs.core.domain.events
+pt.ul.fc.di.lasige.simhs.core.domain.scheduling
+pt.ul.fc.di.lasige.simhs.core.domain.scheduling.policies
+pt.ul.fc.di.lasige.simhs.core.domain.scheduling.schedulers
+pt.ul.fc.di.lasige.simhs.core.domain.scheduling.taxonomy
+pt.ul.fc.di.lasige.simhs.core.domain.workload
+pt.ul.fc.di.lasige.simhs.core.platform
+pt.ul.fc.di.lasige.simhs.core.services
+pt.ul.fc.di.lasige.simhs.core.simulation
