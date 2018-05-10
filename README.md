@@ -4,6 +4,8 @@ Hierarchical scheduling is a recent real-time scheduling topic. It is used to ob
 
 ## News
 
+10 May 2018: Added two publications mentioning hsSim.
+
 5 Dec 2013: hsSim 0.1 alpha is online. Comments are welcome!
 
 ## Documentations
