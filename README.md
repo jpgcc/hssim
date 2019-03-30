@@ -12,7 +12,7 @@ Hierarchical scheduling is a recent real-time scheduling topic. It is used to ob
 
 Currently we have the following documentation available (more to come):
 
-* The paper describing the goals and principles and early development stages of hsSim, “**hsSim: an Extensible Interoperable Object-Oriented n-Level Hierarchical Scheduling Simulator**”, presented at the [3rd International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems (WATERS 2012)](http://retis.sssup.it/waters2012) is available [here](http://lasige.di.fc.ul.pt/~jcraveiro/?n=Publications.Craveiro12hssim), along with the respective presentation slides.
+* The paper describing the goals and principles and early development stages of hsSim, “**hsSim: an Extensible Interoperable Object-Oriented n-Level Hierarchical Scheduling Simulator**”, presented at the [3rd International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems (WATERS 2012)](http://retis.sssup.it/waters2012) is available [here](101_Final_paper.pdf).
 
 More documentation will be available in the future.
 
